@@ -1,0 +1,31 @@
+body
+        {
+           /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYsaCkQzhae4ixAiNTt1EiF8-8gQ9rQya3Kt7nofqcDyfm4bnQtOusDG3c0SvMTaIr6wY&usqp=CAU");
+            background-repeat: no-repeat;
+            background-size: 100% 100%; 
+            background-size: cover; */
+            background-color: 	DeepSkyBlue;
+        }
+        main{
+             background-color: 	DeepSkyBlue; 
+        }
+        footer{
+            background-color: 	DeepSkyBlue;
+        }
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+        .lead{
+            text-align:center;
+        }
+        
+      }
