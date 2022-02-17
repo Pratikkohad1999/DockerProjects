@@ -1,3 +1,4 @@
+// function in Javascript
 function lw()
         {
         
